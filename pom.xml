@@ -36,6 +36,9 @@
 
     <properties>
         <!-- Maven -->
+        <sonar.organization>ao5zdd6ghi94wzyx1qsswxra3tvm2aa-mfhumllxl-0</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        
         <maven.version>3.9.8</maven.version>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
